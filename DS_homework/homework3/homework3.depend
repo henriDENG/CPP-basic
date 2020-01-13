@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1552879891 source:e:\cpp\homework3\homework3\homework3.cpp
+	<iostream>
+	<cstring>
+	"class_Arraylist.h"
+
+1552879660 e:\cpp\homework3\homework3\class_arraylist.h
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1560843564 source:e:\cpp\examen_final\homework8b\homework8b\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<map>
+	<vector>
+	<cmath>
+
