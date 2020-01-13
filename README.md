@@ -1,4 +1,4 @@
-# C++ basic
+# CPP-basic
 
 Data Structure homework on C++
 
